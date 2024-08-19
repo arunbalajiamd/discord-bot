@@ -5,7 +5,7 @@ This Discord bot is designed to automatically detect and delete offensive messag
 
 Key Features:
 
-⌛Real-Time Filtering: Automatically scans every message and deletes those containing offensive language.
-🎨Customizable Filters: Admins can easily add or remove words from the blacklist to suit the needs of their community.
-⚠Warning System: The bot can warn users when they post an inappropriate message and escalate actions for repeat offenses (like muting, kicking, or banning).
-📝Logging: Keeps a record of deleted messages and user actions for admin review.
+⌛Real-Time Filtering: Automatically scans every message and deletes those containing offensive language.<br />
+🎨Customizable Filters: Admins can easily add or remove words from the blacklist to suit the needs of their community.<br />
+⚠Warning System: The bot can warn users when they post an inappropriate message and escalate actions for repeat offenses (like muting, kicking, or banning).<br />
+📝Logging: Keeps a record of deleted messages and user actions for admin review.<br />
